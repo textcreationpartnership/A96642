@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A few quæries to Simon Ford priest at the town of Northampton. By Daniel Wills.</title>
+            <author>Wills, Daniel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96642</idno>
+            <idno type="STC">Wing W2864</idno>
+            <idno type="STC">ESTC R186623</idno>
+            <idno type="EEBO-CITATION">47683562</idno>
+            <idno type="OCLC">ocm 47683562</idno>
+            <idno type="VID">173017</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96642)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173017)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2661:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A few quæries to Simon Ford priest at the town of Northampton. By Daniel Wills.</title>
+                  <author>Wills, Daniel.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ford, Simon, 1619?-1699.</term>
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173017:1" rendition="simple:additions"/>
+            <p>A Few QUAERIES TO <hi>SIMON FORD</hi> Prieſt at the Town of Northampton.</p>
+            <p>By <hi>Daniel Wills.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilſon.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="questions">
+            <pb facs="tcp:173017:2"/>
+            <pb n="3" facs="tcp:173017:2"/>
+            <head>A Few Queries to <hi>Simon Ford</hi> Prieſt at the Town of <hi>Northampton.</hi>
+            </head>
+            <opener>
+               <salute>SIMON FORD,</salute>
+            </opener>
+            <p>I Hearing of thy late change, and of thy publick Con<g ref="char:EOLhyphen"/>feſſion, before thy Congregation (whom thou haſt formerly and ſtill doſt pretend, is at thy care, and that thou haſt a charge over them from the Lord) mo<g ref="char:EOLhyphen"/>ved me to write theſe Queries to thee, of which from thee I expect a ſpeedy anſwer, either to the clearing of thy ſelf, or elſe thy ſilence ſhall condemn, thee guilty before the Lord and thy Congregation: to as many of whom as I can I ſhall communicate the ſame.</p>
+            <p>
+               <hi>Whether it is the ſame God that hath given thee the charge over theſe People ſince thy change, as did before, yea or nay?</hi>
+            </p>
+            <p>
+               <hi>Whether is it the ſame ſpirit that hath moved in thee, to take upon thee to read the Common Prayer to theſe People, whom thou pretendest to have a charge over, for the good of their ſouls: as mo<g ref="char:EOLhyphen"/>ved thee to preach openly againſt it not long ſince, as many of thy hearers can teſtifie, yea or nay?</hi>
+            </p>
+            <p>
+               <hi>Whether that God whom thou worſhippedſt, (before thy now change) be the ſame God thou now worſhippest, yea or nay?</hi>
+            </p>
+            <p>
+               <hi>Whether thy belly be not thy God whom thou ſerveſt: and whe<g ref="char:EOLhyphen"/>ther is it not for filthy Lucre thou now laboureſt, yea or nay?</hi>
+            </p>
+            <p>
+               <hi>Whether thou hadſt received the Holy Ghoſt before thy change, for the Office and Work of a Prieſt: or whether thou haſt received it ſince, by the impoſition of the Biſhops hands, yea or nay?</hi>
+            </p>
+            <p>
+               <hi>Now if thou hadſt not received the Holy Ghoſt before thy late change,</hi>
+            </p>
+            <p>
+               <hi>Whether then do not ſome of thoſe Curſes belong unto thee, and are due upon thee, which thou art to read and pronounce to thy Congregation on the firſt day of Lent, according to thy late aſſent and conſent made in publick, before them, whom thou haſt ſo
+<pb n="4" facs="tcp:173017:3"/>blindly led, infomuch, they could not believe thou wouldſt have de<g ref="char:EOLhyphen"/>ceived them, as thou hast dore, although it was told to ſome of them long ſince, viz.</hi>
+            </p>
+            <p>
+               <hi>Curſed is he that maketh the blind to go out of his way.</hi>
+            </p>
+            <p>
+               <hi>Whether haſt thou done this, yea or nay?</hi>
+            </p>
+            <p>
+               <hi>Curſed is he that putteth his trust in man, and taketh man for his defence, and in his heart goeth from the Lord.</hi>
+            </p>
+            <p>
+               <hi>Whether art thou guilty of this, yea or nay?</hi>
+            </p>
+            <p>
+               <hi>Curſed are the <g ref="char:V">Ʋ</g>nmerciful, Fornicators, and Adulterers, Cove<g ref="char:EOLhyphen"/>tous perſons, Idolaters, Slanderers, Drunkards and Extorti<g ref="char:EOLhyphen"/>oners.</hi>
+            </p>
+            <p>
+               <hi>Whether do not ſome of theſe fall weighty upon thine own head, yea or nay?</hi>
+            </p>
+            <p>
+               <hi>Whether thou putſt thy truſt in man, or was it not for fear of man or for looſing of that thou calleſt thy due, as the Falſe Pro<g ref="char:EOLhyphen"/>phets of old did who preached for filthy lucre, that cauſed thee thus to change and deceive the people who ſo much put their truſt in thee, anſwer yea or nay?</hi>
+            </p>
+            <p>
+               <hi>Now if theſe Curſes be due unto thee,</hi>
+            </p>
+            <p>
+               <hi>Whether then hath the biſhop (or any other) power to abſolve or pardon thee, thereof: ſeeing thou haſt taken upon thee to abſolve and pardon others, as thou hast declared to thy Congregation in thy late acknowledgement, anſwer yea or nay?</hi>
+            </p>
+            <closer>
+               <signed>D'ANIEL WILLS.</signed>
+            </closer>
+            <postscript>
+               <p>A Copy of theſe Queries were given into his own hand, by one of his hearers, on the 29. day of the ſixth month, commonly called <hi>August,</hi> 1662. of which there hath been no anſwer.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:173017:3"/>
+            <head>Some words of unfeigned Love, to all the Tender-hearted People in the ſaid Town of <hi>Northampton</hi> or elſwhere, who are yet held in bondage under the changeable Prieſts of this Age.</head>
+            <opener>
+               <salute>DEar People,</salute>
+            </opener>
+            <p>ſince it hath been the good pleaſure of the Almighty God to bring a day of Tryal upon your Teacher, (whom you could not diſcern) would have ſo ſhamefully dealt concerning you his hear<g ref="char:EOLhyphen"/>ers, until God by his good pleaſure hath manifeſted him and diſcovered his deceit, and laid him to your open view, with many others in this day in theſe Nations. O dear and tender People, whoſe hearts have been and are as yet made ſad by the abominations of your Teacher, and his unexpected change; But this know every one of you, it is not enough for you to ſee your Teacher go aſide from the right way of God; but it may well bring you to conſider, whether ye ought not <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o come out from amongſt ſuch, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſeparate fro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them, and not to touch the unclean thing, that the unchangeable God may receive you. Oh! let none reſt there and ſay I can go after he hath read that which I do not like of; and if I come there before he hath done it, I will not regard it, I will keep my mind on o<g ref="char:EOLhyphen"/>ther things. Oh! dear People how can this be well, where wil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be your Teſtimony that you bear for the Lord God, who gives you life and breath; and let none think to ſtand excuſed before the Righteous God by ſo doing, for thus you muſt expect, and it ſhall ſurely come to paſſe, that all who partake of the ſins of the changeable Prieſts in this day, ſhall aſſuredly partake with them of their plagues: for ſo might the chree Children have ſaid, its but bowing our bodies to the Earth, we may keep our minds to God,
+<pb n="6" facs="tcp:173017:4"/>and do this, and then ſhall we eſcape the wrath of the King, and our bodies will be preſerved out of the hot fiery Fur<g ref="char:EOLhyphen"/>nace; but they conſulted not with fleſh and blood; but in true obedience to the Lord their God; and their faithful ſtanding therein, though but the number three, how migh<g ref="char:EOLhyphen"/>tily did the Lord appear for the preſervation of them in the fire, and alſo to the getting himſelf a name throughout the Kingdom; and ſome of you have ſaid we had warning e<g ref="char:EOLhyphen"/>nough, we might have kept our ſelves out of Priſon, we might have forſook the aſſembling of our ſelves together for one day, and then it might be, we might have eſcaped theſe ſufferings, as to be ſeparated from our Families and outward imployments, which thing we count of no value, for the ſake of whom we ſuffer; but to the witneſſe of God in your Conſciences I deſire ſuch to turn and well conſider whether they might not as well have ſaid the ſame to <hi>Da<g ref="char:EOLhyphen"/>niel</hi> when the Decree was given forth, that not any ſhould call upon the Name of any other God, but the god who was ſet up for all people to worſhip in that day: but mind what <hi>Daniel</hi> did, when he heard the Decree was ſealed un<g ref="char:EOLhyphen"/>alterably, and he well knew by the ſame Decree he who called upon any other God for thirty dayes ſhould be caſt into the Den of Lions, yet notwithſtanding he preſently went and called upon the Name of his God with his win<g ref="char:EOLhyphen"/>dow open, as he had uſually done; ſo he was caſt in: but God preſerved him out of the Lions mouths, and got him<g ref="char:EOLhyphen"/>ſelf a name greatly in that day thereby. So dear People mind the Saints and Prophets of old, who ſought not to ſave their Goods nor Lands nor their lives, if the Lord called them to bear a Teſtimony therewith; but alwayes freely ſacrificed up to the Lord God that gave it them; and this is our God onely and true, who is the ſame yeſterday, to day and for ever, and he alſo requires the ſame faithful<g ref="char:EOLhyphen"/>neſſe of his Children in this age, as he did in ages and gene<g ref="char:EOLhyphen"/>rations paſt, even to give up all for a Teſtimony for his glo<g ref="char:EOLhyphen"/>rious Name, who, we well know is worthy for ever and ever; and we can truly ſay, he never required any thing of any of his, or to part with any thing for his Names ſake, but he hath been ready alwayes to attend with his ſtrength, even ſo much that he makes the tryals eaſie: And I well know he
+<pb n="7" facs="tcp:173017:4"/>is the ſame to all, who wholly put their truſt in him; but mind this dear People, then you muſt Worſhip no other god beſides him, neither Wife nor Children, Father nor Mo<g ref="char:EOLhyphen"/>ther, Houſe nor Land, Liberty nor Life; for which of theſe is delighted in more then the Lord God, are made Idols on, and ſo get the heart from the living God and adulterates it from his pure Preſence, without which his Children in Ages paſt could not live, neither can his tender Ones in this Day; So pure, living, eternal Praiſes do we give to the God of our Salvation alwayes, who hath ſet the door of his Mer<g ref="char:EOLhyphen"/>cies open, that whoſoever will come, may come and drink of the Waters of Life freely without Money or without Price; So dear people, ſleight not this Day of Gods Viſitati<g ref="char:EOLhyphen"/>on, but return at the Reproof of the living God, who hath diſcovered mighty things unto you, and mind his Wit<g ref="char:EOLhyphen"/>neſſe in your Conſciences, and be truly obedient unto that when it ſecretly reproves you, when no outward eye ſeeth you, Oh! that is alwayes near you, in your Beds that will plead with you, and into your ſecret Chambers this will follow you; Oh! dear People, it was the Saints deſire in the dayes of old to keep their Conſciences void of offence towards God (mind that) and towards men, the ſame is the deſire of the Saints in theſe dayes, which makes them chearfully willing to part with all for the great and glorious Name of God, and it is the deſire of our Souls that you might drink of the ſame Fountain, and eat of the ſame Bread and no longer feed upon the Husks without, as the Prodigal did, but return inward whilſt you have time, that you may find a ſure hiding-place, even your lives to be hid with Chriſt in God; then, even then, and not till then ſhall you be hid from the wrath of the Lamb, which is ſurely a coming, and ſhall ſurely come upon all the workers of iniquity.</p>
+            <p>
+               <hi>By one who was forceably taken out of my own hired Houſe, and by the Wills of the Mageſtrates of the ſaid Town, was (contrary to any Law) by them committed to Priſon; but they conſidering their unjuſt Action towards me, did the ſame day ſend for me from the Priſon, who (in execution of their deſign) tendred me the Oath, and ſent me back again, where I remain a preſent Sufferer for the Teſtimony of a pure Conſcience.</hi>
+            </p>
+            <closer>
+               <signed>DANIEL WILLS.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
